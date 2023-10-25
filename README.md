@@ -1,6 +1,6 @@
 # Maximize to Explore: One Objective Function Fusing Estimation, Planning, and Exploration
 
-Code for  [Maximize to Explore: One Objective Function Fusing Estimation, Planning, and Exploration](https://arxiv.org/abs/2305.18258).
+Code for  [Maximize to Explore: One Objective Function Fusing Estimation, Planning, and Exploration](https://arxiv.org/abs/2305.18258). Paper accepted at NeurIPS 2023!
 
 Authors: [Zhihan Liu](https://scholar.google.com/citations?user=uEl_TtkAAAAJ&hl=en)&ast;, [Miao Lu](https://miaolu3.github.io)&ast;, [Wei Xiong](https://weixiongust.github.io/WeiXiongUST/index.html)&ast;, [Han Zhong](https://hanzhong-ml.github.io), [Hao Hu](http://mousehu.cn), [Shenao Zhang](https://shenao-zhang.github.io), [Sirui Zheng](https://openreview.net/profile?id=~Sirui_Zheng2), [Zhuoran Yang](https://zhuoranyang.github.io), [Zhaoran Wang](https://zhaoranwang.github.io) (&ast; indicates equal contribution)
 
