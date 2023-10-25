@@ -1,0 +1,219 @@
+/home/zhaoranwang/anaconda3/envs/mbrl/lib/python3.8/site-packages/hydra/core/plugins.py:202: UserWarning: 
+	Error importing 'hydra_plugins.hydra_submitit_launcher.submitit_launcher'.
+	Plugin is incompatible with this Hydra version or buggy.
+	Recommended to uninstall or upgrade plugin.
+		ImportError : cannot import name 'HydraContext' from 'hydra.types' (/home/zhaoranwang/anaconda3/envs/mbrl/lib/python3.8/site-packages/hydra/types.py)
+  warnings.warn(
+/home/zhaoranwang/anaconda3/envs/mbrl/lib/python3.8/site-packages/hydra/core/plugins.py:202: UserWarning: 
+	Error importing 'hydra_plugins.hydra_submitit_launcher.submitit_launcher'.
+	Plugin is incompatible with this Hydra version or buggy.
+	Recommended to uninstall or upgrade plugin.
+		ImportError : cannot import name 'HydraContext' from 'hydra.types' (/home/zhaoranwang/anaconda3/envs/mbrl/lib/python3.8/site-packages/hydra/types.py)
+  warnings.warn(
+| [34mmodel_train[0m | I: 0 | E: 0 | TD: 4001 | VD: 1000 | MLOSS: 1.2081 | MVSCORE: 0.1692 | MBVSCORE: 0.1692
+| [34mmodel_train[0m | I: 0 | E: 1 | TD: 4001 | VD: 1000 | MLOSS: 0.4180 | MVSCORE: 0.1892 | MBVSCORE: 0.1692
+| [34mmodel_train[0m | I: 0 | E: 2 | TD: 4001 | VD: 1000 | MLOSS: -1.3595 | MVSCORE: 0.0637 | MBVSCORE: 0.0637
+| [34mmodel_train[0m | I: 0 | E: 3 | TD: 4001 | VD: 1000 | MLOSS: -1.7518 | MVSCORE: 0.0468 | MBVSCORE: 0.0468
+| [34mmodel_train[0m | I: 0 | E: 4 | TD: 4001 | VD: 1000 | MLOSS: -2.4100 | MVSCORE: 0.0431 | MBVSCORE: 0.0431
+| [34mmodel_train[0m | I: 0 | E: 5 | TD: 4001 | VD: 1000 | MLOSS: -2.8115 | MVSCORE: 0.0392 | MBVSCORE: 0.0392
+| [34mmodel_train[0m | I: 0 | E: 6 | TD: 4001 | VD: 1000 | MLOSS: -3.0168 | MVSCORE: 0.0376 | MBVSCORE: 0.0376
+| [34mmodel_train[0m | I: 0 | E: 7 | TD: 4001 | VD: 1000 | MLOSS: -3.0710 | MVSCORE: 0.0369 | MBVSCORE: 0.0369
+| [34mmodel_train[0m | I: 0 | E: 8 | TD: 4001 | VD: 1000 | MLOSS: -2.7734 | MVSCORE: 0.0376 | MBVSCORE: 0.0369
+| [34mmodel_train[0m | I: 0 | E: 9 | TD: 4001 | VD: 1000 | MLOSS: -2.8234 | MVSCORE: 0.0363 | MBVSCORE: 0.0363
+| [34mmodel_train[0m | I: 0 | E: 10 | TD: 4001 | VD: 1000 | MLOSS: -3.2132 | MVSCORE: 0.0351 | MBVSCORE: 0.0351
+| [34mmodel_train[0m | I: 0 | E: 11 | TD: 4001 | VD: 1000 | MLOSS: -3.4144 | MVSCORE: 0.0341 | MBVSCORE: 0.0341
+| [34mmodel_train[0m | I: 0 | E: 12 | TD: 4001 | VD: 1000 | MLOSS: -3.5764 | MVSCORE: 0.0334 | MBVSCORE: 0.0334
+| [34mmodel_train[0m | I: 0 | E: 13 | TD: 4001 | VD: 1000 | MLOSS: -3.4481 | MVSCORE: 0.0327 | MBVSCORE: 0.0327
+| [34mmodel_train[0m | I: 0 | E: 14 | TD: 4001 | VD: 1000 | MLOSS: -3.3443 | MVSCORE: 0.0315 | MBVSCORE: 0.0315
+| [34mmodel_train[0m | I: 0 | E: 15 | TD: 4001 | VD: 1000 | MLOSS: -3.9011 | MVSCORE: 0.0293 | MBVSCORE: 0.0293
+| [34mmodel_train[0m | I: 0 | E: 16 | TD: 4001 | VD: 1000 | MLOSS: -3.8103 | MVSCORE: 0.0276 | MBVSCORE: 0.0276
+| [34mmodel_train[0m | I: 0 | E: 17 | TD: 4001 | VD: 1000 | MLOSS: -3.8280 | MVSCORE: 0.0251 | MBVSCORE: 0.0251
+| [34mmodel_train[0m | I: 0 | E: 18 | TD: 4001 | VD: 1000 | MLOSS: -4.3190 | MVSCORE: 0.0230 | MBVSCORE: 0.0230
+| [34mmodel_train[0m | I: 0 | E: 19 | TD: 4001 | VD: 1000 | MLOSS: -3.9701 | MVSCORE: 0.0233 | MBVSCORE: 0.0230
+| [34mmodel_train[0m | I: 0 | E: 20 | TD: 4001 | VD: 1000 | MLOSS: -3.3134 | MVSCORE: 0.0226 | MBVSCORE: 0.0226
+| [34mmodel_train[0m | I: 0 | E: 21 | TD: 4001 | VD: 1000 | MLOSS: -4.2979 | MVSCORE: 0.0215 | MBVSCORE: 0.0215
+| [34mmodel_train[0m | I: 0 | E: 22 | TD: 4001 | VD: 1000 | MLOSS: -4.6086 | MVSCORE: 0.0213 | MBVSCORE: 0.0215
+| [34mmodel_train[0m | I: 0 | E: 23 | TD: 4001 | VD: 1000 | MLOSS: -4.8619 | MVSCORE: 0.0212 | MBVSCORE: 0.0212
+| [34mmodel_train[0m | I: 0 | E: 24 | TD: 4001 | VD: 1000 | MLOSS: -4.8237 | MVSCORE: 0.0210 | MBVSCORE: 0.0212
+| [34mmodel_train[0m | I: 0 | E: 25 | TD: 4001 | VD: 1000 | MLOSS: -4.5750 | MVSCORE: 0.0205 | MBVSCORE: 0.0205
+| [34mmodel_train[0m | I: 0 | E: 26 | TD: 4001 | VD: 1000 | MLOSS: -4.9612 | MVSCORE: 0.0202 | MBVSCORE: 0.0202
+| [34mmodel_train[0m | I: 0 | E: 27 | TD: 4001 | VD: 1000 | MLOSS: -5.0655 | MVSCORE: 0.0200 | MBVSCORE: 0.0200
+| [34mmodel_train[0m | I: 0 | E: 28 | TD: 4001 | VD: 1000 | MLOSS: -4.9792 | MVSCORE: 0.0198 | MBVSCORE: 0.0200
+| [34mmodel_train[0m | I: 0 | E: 29 | TD: 4001 | VD: 1000 | MLOSS: -4.8028 | MVSCORE: 0.0197 | MBVSCORE: 0.0197
+| [34mmodel_train[0m | I: 0 | E: 30 | TD: 4001 | VD: 1000 | MLOSS: -4.9602 | MVSCORE: 0.0188 | MBVSCORE: 0.0188
+| [34mmodel_train[0m | I: 0 | E: 31 | TD: 4001 | VD: 1000 | MLOSS: -5.0784 | MVSCORE: 0.0185 | MBVSCORE: 0.0185
+| [34mmodel_train[0m | I: 0 | E: 32 | TD: 4001 | VD: 1000 | MLOSS: -5.1989 | MVSCORE: 0.0184 | MBVSCORE: 0.0185
+| [34mmodel_train[0m | I: 0 | E: 33 | TD: 4001 | VD: 1000 | MLOSS: -4.3113 | MVSCORE: 0.0180 | MBVSCORE: 0.0180
+| [34mmodel_train[0m | I: 0 | E: 34 | TD: 4001 | VD: 1000 | MLOSS: -5.1733 | MVSCORE: 0.0175 | MBVSCORE: 0.0175
+| [34mmodel_train[0m | I: 0 | E: 35 | TD: 4001 | VD: 1000 | MLOSS: -5.3259 | MVSCORE: 0.0175 | MBVSCORE: 0.0175
+| [34mmodel_train[0m | I: 0 | E: 36 | TD: 4001 | VD: 1000 | MLOSS: -5.3465 | MVSCORE: 0.0170 | MBVSCORE: 0.0170
+| [34mmodel_train[0m | I: 0 | E: 37 | TD: 4001 | VD: 1000 | MLOSS: -5.4180 | MVSCORE: 0.0164 | MBVSCORE: 0.0164
+| [34mmodel_train[0m | I: 0 | E: 38 | TD: 4001 | VD: 1000 | MLOSS: -5.4459 | MVSCORE: 0.0162 | MBVSCORE: 0.0162
+| [34mmodel_train[0m | I: 0 | E: 39 | TD: 4001 | VD: 1000 | MLOSS: -5.3983 | MVSCORE: 0.0160 | MBVSCORE: 0.0160
+| [34mmodel_train[0m | I: 0 | E: 40 | TD: 4001 | VD: 1000 | MLOSS: -5.4599 | MVSCORE: 0.0156 | MBVSCORE: 0.0156
+| [34mmodel_train[0m | I: 0 | E: 41 | TD: 4001 | VD: 1000 | MLOSS: -5.4693 | MVSCORE: 0.0153 | MBVSCORE: 0.0153
+| [34mmodel_train[0m | I: 0 | E: 42 | TD: 4001 | VD: 1000 | MLOSS: -5.5222 | MVSCORE: 0.0153 | MBVSCORE: 0.0153
+| [34mmodel_train[0m | I: 0 | E: 43 | TD: 4001 | VD: 1000 | MLOSS: -5.5778 | MVSCORE: 0.0157 | MBVSCORE: 0.0153
+| [34mmodel_train[0m | I: 0 | E: 44 | TD: 4001 | VD: 1000 | MLOSS: -5.4983 | MVSCORE: 0.0149 | MBVSCORE: 0.0149
+| [34mmodel_train[0m | I: 0 | E: 45 | TD: 4001 | VD: 1000 | MLOSS: -5.5779 | MVSCORE: 0.0144 | MBVSCORE: 0.0144
+| [34mmodel_train[0m | I: 0 | E: 46 | TD: 4001 | VD: 1000 | MLOSS: -5.6595 | MVSCORE: 0.0142 | MBVSCORE: 0.0142
+| [34mmodel_train[0m | I: 0 | E: 47 | TD: 4001 | VD: 1000 | MLOSS: -5.2226 | MVSCORE: 0.0147 | MBVSCORE: 0.0142
+| [34mmodel_train[0m | I: 0 | E: 48 | TD: 4001 | VD: 1000 | MLOSS: -5.5504 | MVSCORE: 0.0139 | MBVSCORE: 0.0139
+| [34mmodel_train[0m | I: 0 | E: 49 | TD: 4001 | VD: 1000 | MLOSS: -5.6691 | MVSCORE: 0.0139 | MBVSCORE: 0.0139
+| [34mmodel_train[0m | I: 0 | E: 50 | TD: 4001 | VD: 1000 | MLOSS: -5.7302 | MVSCORE: 0.0136 | MBVSCORE: 0.0136
+| [34mmodel_train[0m | I: 0 | E: 51 | TD: 4001 | VD: 1000 | MLOSS: -5.2081 | MVSCORE: 0.0142 | MBVSCORE: 0.0136
+| [34mmodel_train[0m | I: 0 | E: 52 | TD: 4001 | VD: 1000 | MLOSS: -5.4036 | MVSCORE: 0.0140 | MBVSCORE: 0.0136
+| [34mmodel_train[0m | I: 0 | E: 53 | TD: 4001 | VD: 1000 | MLOSS: -5.5526 | MVSCORE: 0.0135 | MBVSCORE: 0.0136
+| [34mmodel_train[0m | I: 0 | E: 54 | TD: 4001 | VD: 1000 | MLOSS: -5.6384 | MVSCORE: 0.0134 | MBVSCORE: 0.0134
+| [34mmodel_train[0m | I: 0 | E: 55 | TD: 4001 | VD: 1000 | MLOSS: -5.7089 | MVSCORE: 0.0131 | MBVSCORE: 0.0131
+| [34mmodel_train[0m | I: 0 | E: 56 | TD: 4001 | VD: 1000 | MLOSS: -5.8318 | MVSCORE: 0.0132 | MBVSCORE: 0.0131
+| [34mmodel_train[0m | I: 0 | E: 57 | TD: 4001 | VD: 1000 | MLOSS: -5.8821 | MVSCORE: 0.0135 | MBVSCORE: 0.0131
+| [34mmodel_train[0m | I: 0 | E: 58 | TD: 4001 | VD: 1000 | MLOSS: -5.4324 | MVSCORE: 0.0135 | MBVSCORE: 0.0131
+| [34mmodel_train[0m | I: 0 | E: 59 | TD: 4001 | VD: 1000 | MLOSS: -5.7763 | MVSCORE: 0.0127 | MBVSCORE: 0.0127
+| [34mmodel_train[0m | I: 0 | E: 60 | TD: 4001 | VD: 1000 | MLOSS: -5.9364 | MVSCORE: 0.0128 | MBVSCORE: 0.0127
+| [34mmodel_train[0m | I: 0 | E: 61 | TD: 4001 | VD: 1000 | MLOSS: -5.8978 | MVSCORE: 0.0131 | MBVSCORE: 0.0127
+| [34mmodel_train[0m | I: 0 | E: 62 | TD: 4001 | VD: 1000 | MLOSS: -5.9983 | MVSCORE: 0.0126 | MBVSCORE: 0.0127
+| [34mmodel_train[0m | I: 0 | E: 63 | TD: 4001 | VD: 1000 | MLOSS: -6.0620 | MVSCORE: 0.0126 | MBVSCORE: 0.0126
+| [34mmodel_train[0m | I: 0 | E: 64 | TD: 4001 | VD: 1000 | MLOSS: -5.9389 | MVSCORE: 0.0126 | MBVSCORE: 0.0126
+| [34mmodel_train[0m | I: 0 | E: 65 | TD: 4001 | VD: 1000 | MLOSS: -6.0199 | MVSCORE: 0.0124 | MBVSCORE: 0.0126
+| [34mmodel_train[0m | I: 0 | E: 66 | TD: 4001 | VD: 1000 | MLOSS: -6.0869 | MVSCORE: 0.0123 | MBVSCORE: 0.0123
+| [34mmodel_train[0m | I: 0 | E: 67 | TD: 4001 | VD: 1000 | MLOSS: -6.0552 | MVSCORE: 0.0122 | MBVSCORE: 0.0123
+| [34mmodel_train[0m | I: 0 | E: 68 | TD: 4001 | VD: 1000 | MLOSS: -6.0965 | MVSCORE: 0.0124 | MBVSCORE: 0.0123
+| [34mmodel_train[0m | I: 0 | E: 69 | TD: 4001 | VD: 1000 | MLOSS: -6.0331 | MVSCORE: 0.0125 | MBVSCORE: 0.0123
+| [34mmodel_train[0m | I: 0 | E: 70 | TD: 4001 | VD: 1000 | MLOSS: -6.1306 | MVSCORE: 0.0124 | MBVSCORE: 0.0123
+| [34mmodel_train[0m | I: 0 | E: 0 | TD: 4001 | VD: 1000 | MLOSS: 1.2952 | MVSCORE: 0.2149 | MBVSCORE: 0.2149
+| [34mmodel_train[0m | I: 0 | E: 1 | TD: 4001 | VD: 1000 | MLOSS: 0.3925 | MVSCORE: 0.2791 | MBVSCORE: 0.2149
+| [34mmodel_train[0m | I: 0 | E: 2 | TD: 4001 | VD: 1000 | MLOSS: -1.2406 | MVSCORE: 0.1054 | MBVSCORE: 0.1054
+| [34mmodel_train[0m | I: 0 | E: 3 | TD: 4001 | VD: 1000 | MLOSS: -1.9555 | MVSCORE: 0.0893 | MBVSCORE: 0.0893
+| [34mmodel_train[0m | I: 0 | E: 4 | TD: 4001 | VD: 1000 | MLOSS: -2.4215 | MVSCORE: 0.0750 | MBVSCORE: 0.0750
+| [34mmodel_train[0m | I: 0 | E: 5 | TD: 4001 | VD: 1000 | MLOSS: -2.2983 | MVSCORE: 0.0621 | MBVSCORE: 0.0621
+| [34mmodel_train[0m | I: 0 | E: 6 | TD: 4001 | VD: 1000 | MLOSS: -2.2015 | MVSCORE: 0.0569 | MBVSCORE: 0.0569
+| [34mmodel_train[0m | I: 0 | E: 7 | TD: 4001 | VD: 1000 | MLOSS: -2.6979 | MVSCORE: 0.0519 | MBVSCORE: 0.0519
+| [34mmodel_train[0m | I: 0 | E: 8 | TD: 4001 | VD: 1000 | MLOSS: -2.6686 | MVSCORE: 0.0516 | MBVSCORE: 0.0519
+| [34mmodel_train[0m | I: 0 | E: 9 | TD: 4001 | VD: 1000 | MLOSS: -3.0199 | MVSCORE: 0.0504 | MBVSCORE: 0.0504
+| [34mmodel_train[0m | I: 0 | E: 10 | TD: 4001 | VD: 1000 | MLOSS: -3.3933 | MVSCORE: 0.0497 | MBVSCORE: 0.0497
+| [34mmodel_train[0m | I: 0 | E: 11 | TD: 4001 | VD: 1000 | MLOSS: -2.6665 | MVSCORE: 0.0505 | MBVSCORE: 0.0497
+| [34mmodel_train[0m | I: 0 | E: 12 | TD: 4001 | VD: 1000 | MLOSS: -3.3636 | MVSCORE: 0.0495 | MBVSCORE: 0.0497
+| [34mmodel_train[0m | I: 0 | E: 13 | TD: 4001 | VD: 1000 | MLOSS: -3.2888 | MVSCORE: 0.0498 | MBVSCORE: 0.0497
+| [34mmodel_train[0m | I: 0 | E: 14 | TD: 4001 | VD: 1000 | MLOSS: -3.3882 | MVSCORE: 0.0493 | MBVSCORE: 0.0497
+| [34mmodel_train[0m | I: 0 | E: 15 | TD: 4001 | VD: 1000 | MLOSS: -3.7667 | MVSCORE: 0.0481 | MBVSCORE: 0.0481
+| [34mmodel_train[0m | I: 0 | E: 16 | TD: 4001 | VD: 1000 | MLOSS: -3.2728 | MVSCORE: 0.0476 | MBVSCORE: 0.0481
+| [34mmodel_train[0m | I: 0 | E: 17 | TD: 4001 | VD: 1000 | MLOSS: -3.8896 | MVSCORE: 0.0468 | MBVSCORE: 0.0468
+| [34mmodel_train[0m | I: 0 | E: 18 | TD: 4001 | VD: 1000 | MLOSS: -3.4878 | MVSCORE: 0.0461 | MBVSCORE: 0.0461
+| [34mmodel_train[0m | I: 0 | E: 19 | TD: 4001 | VD: 1000 | MLOSS: -3.8809 | MVSCORE: 0.0443 | MBVSCORE: 0.0443
+| [34mmodel_train[0m | I: 0 | E: 20 | TD: 4001 | VD: 1000 | MLOSS: -4.1248 | MVSCORE: 0.0417 | MBVSCORE: 0.0417
+| [34mmodel_train[0m | I: 0 | E: 21 | TD: 4001 | VD: 1000 | MLOSS: -3.6448 | MVSCORE: 0.0391 | MBVSCORE: 0.0391
+| [34mmodel_train[0m | I: 0 | E: 22 | TD: 4001 | VD: 1000 | MLOSS: -3.2275 | MVSCORE: 0.0386 | MBVSCORE: 0.0386
+| [34mmodel_train[0m | I: 0 | E: 23 | TD: 4001 | VD: 1000 | MLOSS: -3.9971 | MVSCORE: 0.0331 | MBVSCORE: 0.0331
+| [34mmodel_train[0m | I: 0 | E: 24 | TD: 4001 | VD: 1000 | MLOSS: -4.2997 | MVSCORE: 0.0299 | MBVSCORE: 0.0299
+| [34mmodel_train[0m | I: 0 | E: 25 | TD: 4001 | VD: 1000 | MLOSS: -4.5216 | MVSCORE: 0.0293 | MBVSCORE: 0.0293
+| [34mmodel_train[0m | I: 0 | E: 26 | TD: 4001 | VD: 1000 | MLOSS: -4.5838 | MVSCORE: 0.0293 | MBVSCORE: 0.0293
+| [34mmodel_train[0m | I: 0 | E: 27 | TD: 4001 | VD: 1000 | MLOSS: -3.4203 | MVSCORE: 0.0292 | MBVSCORE: 0.0293
+| [34mmodel_train[0m | I: 0 | E: 28 | TD: 4001 | VD: 1000 | MLOSS: -4.4765 | MVSCORE: 0.0283 | MBVSCORE: 0.0283
+| [34mmodel_train[0m | I: 0 | E: 29 | TD: 4001 | VD: 1000 | MLOSS: -4.6387 | MVSCORE: 0.0277 | MBVSCORE: 0.0277
+| [34mmodel_train[0m | I: 0 | E: 30 | TD: 4001 | VD: 1000 | MLOSS: -4.7480 | MVSCORE: 0.0278 | MBVSCORE: 0.0277
+| [34mmodel_train[0m | I: 0 | E: 31 | TD: 4001 | VD: 1000 | MLOSS: -4.8022 | MVSCORE: 0.0275 | MBVSCORE: 0.0277
+| [34mmodel_train[0m | I: 0 | E: 32 | TD: 4001 | VD: 1000 | MLOSS: -4.8813 | MVSCORE: 0.0273 | MBVSCORE: 0.0273
+| [34mmodel_train[0m | I: 0 | E: 33 | TD: 4001 | VD: 1000 | MLOSS: -4.7663 | MVSCORE: 0.0274 | MBVSCORE: 0.0273
+| [34mmodel_train[0m | I: 0 | E: 34 | TD: 4001 | VD: 1000 | MLOSS: -4.5958 | MVSCORE: 0.0266 | MBVSCORE: 0.0266
+| [34mmodel_train[0m | I: 0 | E: 35 | TD: 4001 | VD: 1000 | MLOSS: -4.9592 | MVSCORE: 0.0268 | MBVSCORE: 0.0266
+| [34mmodel_train[0m | I: 0 | E: 36 | TD: 4001 | VD: 1000 | MLOSS: -4.4121 | MVSCORE: 0.0267 | MBVSCORE: 0.0266
+| [34mmodel_train[0m | I: 0 | E: 37 | TD: 4001 | VD: 1000 | MLOSS: -4.7916 | MVSCORE: 0.0261 | MBVSCORE: 0.0261
+| [34mmodel_train[0m | I: 0 | E: 38 | TD: 4001 | VD: 1000 | MLOSS: -4.8781 | MVSCORE: 0.0263 | MBVSCORE: 0.0261
+| [34mmodel_train[0m | I: 0 | E: 39 | TD: 4001 | VD: 1000 | MLOSS: -4.9450 | MVSCORE: 0.0261 | MBVSCORE: 0.0261
+| [34mmodel_train[0m | I: 0 | E: 40 | TD: 4001 | VD: 1000 | MLOSS: -5.0412 | MVSCORE: 0.0258 | MBVSCORE: 0.0261
+| [34mmodel_train[0m | I: 0 | E: 41 | TD: 4001 | VD: 1000 | MLOSS: -4.3141 | MVSCORE: 0.0254 | MBVSCORE: 0.0254
+| [34mmodel_train[0m | I: 0 | E: 42 | TD: 4001 | VD: 1000 | MLOSS: -4.7029 | MVSCORE: 0.0251 | MBVSCORE: 0.0251
+| [34mmodel_train[0m | I: 0 | E: 43 | TD: 4001 | VD: 1000 | MLOSS: -5.0885 | MVSCORE: 0.0252 | MBVSCORE: 0.0251
+| [34mmodel_train[0m | I: 0 | E: 44 | TD: 4001 | VD: 1000 | MLOSS: -5.1591 | MVSCORE: 0.0252 | MBVSCORE: 0.0251
+| [34mmodel_train[0m | I: 0 | E: 45 | TD: 4001 | VD: 1000 | MLOSS: -5.1941 | MVSCORE: 0.0247 | MBVSCORE: 0.0247
+| [34mmodel_train[0m | I: 0 | E: 46 | TD: 4001 | VD: 1000 | MLOSS: -5.2544 | MVSCORE: 0.0247 | MBVSCORE: 0.0247
+| [34mmodel_train[0m | I: 0 | E: 47 | TD: 4001 | VD: 1000 | MLOSS: -5.2321 | MVSCORE: 0.0250 | MBVSCORE: 0.0247
+| [34mmodel_train[0m | I: 0 | E: 48 | TD: 4001 | VD: 1000 | MLOSS: -5.3042 | MVSCORE: 0.0248 | MBVSCORE: 0.0247
+| [34mmodel_train[0m | I: 0 | E: 49 | TD: 4001 | VD: 1000 | MLOSS: -5.3288 | MVSCORE: 0.0248 | MBVSCORE: 0.0247
+| [34mmodel_train[0m | I: 0 | E: 50 | TD: 4001 | VD: 1000 | MLOSS: -5.2281 | MVSCORE: 0.0244 | MBVSCORE: 0.0244
+| [34mmodel_train[0m | I: 0 | E: 51 | TD: 4001 | VD: 1000 | MLOSS: -5.3438 | MVSCORE: 0.0244 | MBVSCORE: 0.0244
+| [34mmodel_train[0m | I: 0 | E: 52 | TD: 4001 | VD: 1000 | MLOSS: -5.2423 | MVSCORE: 0.0238 | MBVSCORE: 0.0238
+| [34mmodel_train[0m | I: 0 | E: 53 | TD: 4001 | VD: 1000 | MLOSS: -5.3624 | MVSCORE: 0.0243 | MBVSCORE: 0.0238
+| [34mmodel_train[0m | I: 0 | E: 54 | TD: 4001 | VD: 1000 | MLOSS: -5.2999 | MVSCORE: 0.0241 | MBVSCORE: 0.0238
+| [34mmodel_train[0m | I: 0 | E: 55 | TD: 4001 | VD: 1000 | MLOSS: -5.3212 | MVSCORE: 0.0239 | MBVSCORE: 0.0238
+| [34mmodel_train[0m | I: 0 | E: 56 | TD: 4001 | VD: 1000 | MLOSS: -5.3986 | MVSCORE: 0.0240 | MBVSCORE: 0.0238
+| [34mmodel_train[0m | I: 0 | E: 57 | TD: 4001 | VD: 1000 | MLOSS: -5.4034 | MVSCORE: 0.0241 | MBVSCORE: 0.0238
+| [33mtrain[0m | S: 1000 | BR: 1.1828 | ALOSS: -2.6906 | TENTR: 0.0000 | CLOSS: 0.1421 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: 1.9179
+| [33mtrain[0m | S: 2000 | BR: 1.1829 | ALOSS: -4.2407 | TENTR: 0.0000 | CLOSS: 0.2980 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: 1.6150
+| [33mtrain[0m | S: 3000 | BR: 1.1831 | ALOSS: -6.0247 | TENTR: 0.0000 | CLOSS: 0.5461 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: 1.2347
+| [33mtrain[0m | S: 4000 | BR: 1.1829 | ALOSS: -7.9326 | TENTR: 0.0000 | CLOSS: 0.8235 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: 0.8589
+| [33mtrain[0m | S: 5000 | BR: 1.1839 | ALOSS: -9.9677 | TENTR: 0.0000 | CLOSS: 1.1947 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: 0.5107
+| [33mtrain[0m | S: 6000 | BR: 1.1811 | ALOSS: -12.1358 | TENTR: 0.0000 | CLOSS: 1.6745 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: 0.2112
+| [33mtrain[0m | S: 7000 | BR: 1.1837 | ALOSS: -14.4354 | TENTR: 0.0000 | CLOSS: 2.3834 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: 0.0057
+| [33mtrain[0m | S: 8000 | BR: 1.1829 | ALOSS: -16.8370 | TENTR: 0.0000 | CLOSS: 3.2266 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -0.1768
+| [33mtrain[0m | S: 9000 | BR: 1.1838 | ALOSS: -19.3526 | TENTR: 0.0000 | CLOSS: 4.1005 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -0.3600
+| [33mtrain[0m | S: 10000 | BR: 1.1817 | ALOSS: -21.9344 | TENTR: 0.0000 | CLOSS: 5.2205 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -0.4946
+| [34mmodel_train[0m | I: 0 | E: 0 | TD: 4201 | VD: 1050 | MLOSS: -4.4827 | MVSCORE: 0.0243 | MBVSCORE: 0.0243
+| [34mmodel_train[0m | I: 0 | E: 71 | TD: 4001 | VD: 1000 | MLOSS: -6.0573 | MVSCORE: 0.0123 | MBVSCORE: 0.0123
+| [33mtrain[0m | S: 1000 | BR: 0.8149 | ALOSS: -2.1437 | TENTR: 0.0000 | CLOSS: 0.0933 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: 1.9452
+| [33mtrain[0m | S: 2000 | BR: 0.8150 | ALOSS: -3.3329 | TENTR: 0.0000 | CLOSS: 0.1704 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: 1.6750
+| [33mtrain[0m | S: 3000 | BR: 0.8151 | ALOSS: -4.6738 | TENTR: 0.0000 | CLOSS: 0.2862 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: 1.2914
+| [33mtrain[0m | S: 4000 | BR: 0.8143 | ALOSS: -6.1221 | TENTR: 0.0000 | CLOSS: 0.4561 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: 0.8913
+| [33mtrain[0m | S: 5000 | BR: 0.8164 | ALOSS: -7.7113 | TENTR: 0.0000 | CLOSS: 0.6907 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: 0.5232
+| [33mtrain[0m | S: 6000 | BR: 0.8147 | ALOSS: -9.3958 | TENTR: 0.0000 | CLOSS: 1.0552 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: 0.1983
+| [33mtrain[0m | S: 7000 | BR: 0.8146 | ALOSS: -11.2818 | TENTR: 0.0000 | CLOSS: 1.4707 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -0.1129
+| [33mtrain[0m | S: 8000 | BR: 0.8148 | ALOSS: -13.2551 | TENTR: 0.0000 | CLOSS: 2.1164 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -0.2847
+| [33mtrain[0m | S: 9000 | BR: 0.8168 | ALOSS: -15.4125 | TENTR: 0.0000 | CLOSS: 2.6837 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -0.4894
+| [33mtrain[0m | S: 10000 | BR: 0.8153 | ALOSS: -17.6994 | TENTR: 0.0000 | CLOSS: 3.4552 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -0.6519
+| [34mmodel_train[0m | I: 0 | E: 0 | TD: 4201 | VD: 1050 | MLOSS: -4.2632 | MVSCORE: 0.0252 | MBVSCORE: 0.0143
+| [34mmodel_train[0m | I: 0 | E: 1 | TD: 4201 | VD: 1050 | MLOSS: -5.2477 | MVSCORE: 0.0192 | MBVSCORE: 0.0143
+| [34mmodel_train[0m | I: 0 | E: 2 | TD: 4201 | VD: 1050 | MLOSS: -5.5922 | MVSCORE: 0.0152 | MBVSCORE: 0.0143
+| [34mmodel_train[0m | I: 0 | E: 3 | TD: 4201 | VD: 1050 | MLOSS: -5.7772 | MVSCORE: 0.0130 | MBVSCORE: 0.0130
+| [34mmodel_train[0m | I: 0 | E: 4 | TD: 4201 | VD: 1050 | MLOSS: -5.8364 | MVSCORE: 0.0121 | MBVSCORE: 0.0121
+| [34mmodel_train[0m | I: 0 | E: 5 | TD: 4201 | VD: 1050 | MLOSS: -5.9457 | MVSCORE: 0.0120 | MBVSCORE: 0.0120
+| [34mmodel_train[0m | I: 0 | E: 6 | TD: 4201 | VD: 1050 | MLOSS: -6.0033 | MVSCORE: 0.0115 | MBVSCORE: 0.0115
+| [34mmodel_train[0m | I: 0 | E: 7 | TD: 4201 | VD: 1050 | MLOSS: -5.9465 | MVSCORE: 0.0114 | MBVSCORE: 0.0114
+| [34mmodel_train[0m | I: 0 | E: 8 | TD: 4201 | VD: 1050 | MLOSS: -5.9801 | MVSCORE: 0.0116 | MBVSCORE: 0.0114
+| [34mmodel_train[0m | I: 0 | E: 9 | TD: 4201 | VD: 1050 | MLOSS: -6.0020 | MVSCORE: 0.0113 | MBVSCORE: 0.0114
+| [34mmodel_train[0m | I: 0 | E: 10 | TD: 4201 | VD: 1050 | MLOSS: -5.9618 | MVSCORE: 0.0114 | MBVSCORE: 0.0114
+| [34mmodel_train[0m | I: 0 | E: 11 | TD: 4201 | VD: 1050 | MLOSS: -6.1090 | MVSCORE: 0.0115 | MBVSCORE: 0.0114
+| [34mmodel_train[0m | I: 0 | E: 12 | TD: 4201 | VD: 1050 | MLOSS: -6.0968 | MVSCORE: 0.0114 | MBVSCORE: 0.0114
+| [33mtrain[0m | S: 11000 | BR: 0.9049 | ALOSS: -20.1882 | TENTR: 0.0000 | CLOSS: 7.9903 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -0.6991
+| [33mtrain[0m | S: 12000 | BR: 0.9048 | ALOSS: -22.4097 | TENTR: 0.0000 | CLOSS: 8.0255 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -0.7747
+| [33mtrain[0m | S: 13000 | BR: 0.9044 | ALOSS: -24.7310 | TENTR: 0.0000 | CLOSS: 8.5373 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -0.8933
+| [33mtrain[0m | S: 14000 | BR: 0.9049 | ALOSS: -27.1760 | TENTR: 0.0000 | CLOSS: 9.5686 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -1.0371
+| [33mtrain[0m | S: 15000 | BR: 0.9044 | ALOSS: -29.6981 | TENTR: 0.0000 | CLOSS: 10.7369 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -1.1560
+| [33mtrain[0m | S: 16000 | BR: 0.9042 | ALOSS: -32.3231 | TENTR: 0.0000 | CLOSS: 11.6013 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -1.2740
+| [33mtrain[0m | S: 17000 | BR: 0.9052 | ALOSS: -35.0316 | TENTR: 0.0000 | CLOSS: 14.1855 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -1.3619
+| [33mtrain[0m | S: 18000 | BR: 0.9055 | ALOSS: -37.7541 | TENTR: 0.0000 | CLOSS: 15.7964 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -1.4127
+| [33mtrain[0m | S: 19000 | BR: 0.9040 | ALOSS: -40.4232 | TENTR: 0.0000 | CLOSS: 17.5043 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -1.5001
+| [33mtrain[0m | S: 20000 | BR: 0.9053 | ALOSS: -43.1037 | TENTR: 0.0000 | CLOSS: 20.1263 | TLOSS: 0.0000 | ALPHA: 0.2000 | AENTR: -1.5393
+| [34mmodel_train[0m | I: 0 | E: 0 | TD: 4401 | VD: 1100 | MLOSS: -3.7125 | MVSCORE: 0.0316 | MBVSCORE: 0.0288
+| [34mmodel_train[0m | I: 0 | E: 1 | TD: 4401 | VD: 1100 | MLOSS: -5.0433 | MVSCORE: 0.0245 | MBVSCORE: 0.0245
+| [34mmodel_train[0m | I: 0 | E: 2 | TD: 4401 | VD: 1100 | MLOSS: -5.4754 | MVSCORE: 0.0207 | MBVSCORE: 0.0207
+| [34mmodel_train[0m | I: 0 | E: 3 | TD: 4401 | VD: 1100 | MLOSS: -5.7153 | MVSCORE: 0.0198 | MBVSCORE: 0.0198
+| [34mmodel_train[0m | I: 0 | E: 4 | TD: 4401 | VD: 1100 | MLOSS: -5.8564 | MVSCORE: 0.0192 | MBVSCORE: 0.0192
+| [34mmodel_train[0m | I: 0 | E: 5 | TD: 4401 | VD: 1100 | MLOSS: -5.8405 | MVSCORE: 0.0183 | MBVSCORE: 0.0183
+| [34mmodel_train[0m | I: 0 | E: 6 | TD: 4401 | VD: 1100 | MLOSS: -5.9847 | MVSCORE: 0.0179 | MBVSCORE: 0.0179
+| [34mmodel_train[0m | I: 0 | E: 7 | TD: 4401 | VD: 1100 | MLOSS: -6.0062 | MVSCORE: 0.0177 | MBVSCORE: 0.0177
+| [34mmodel_train[0m | I: 0 | E: 8 | TD: 4401 | VD: 1100 | MLOSS: -6.0592 | MVSCORE: 0.0172 | MBVSCORE: 0.0172
+| [34mmodel_train[0m | I: 0 | E: 9 | TD: 4401 | VD: 1100 | MLOSS: -5.9288 | MVSCORE: 0.0166 | MBVSCORE: 0.0166
+| [34mmodel_train[0m | I: 0 | E: 10 | TD: 4401 | VD: 1100 | MLOSS: -6.0177 | MVSCORE: 0.0163 | MBVSCORE: 0.0163
+| [34mmodel_train[0m | I: 0 | E: 11 | TD: 4401 | VD: 1100 | MLOSS: -5.9876 | MVSCORE: 0.0161 | MBVSCORE: 0.0161
+| [34mmodel_train[0m | I: 0 | E: 12 | TD: 4401 | VD: 1100 | MLOSS: -6.0960 | MVSCORE: 0.0159 | MBVSCORE: 0.0159
+| [34mmodel_train[0m | I: 0 | E: 13 | TD: 4401 | VD: 1100 | MLOSS: -6.0463 | MVSCORE: 0.0154 | MBVSCORE: 0.0154
+| [34mmodel_train[0m | I: 0 | E: 14 | TD: 4401 | VD: 1100 | MLOSS: -6.1210 | MVSCORE: 0.0157 | MBVSCORE: 0.0154
+| [34mmodel_train[0m | I: 0 | E: 15 | TD: 4401 | VD: 1100 | MLOSS: -6.0089 | MVSCORE: 0.0154 | MBVSCORE: 0.0154
+| [34mmodel_train[0m | I: 0 | E: 16 | TD: 4401 | VD: 1100 | MLOSS: -6.1156 | MVSCORE: 0.0151 | MBVSCORE: 0.0151
+| [34mmodel_train[0m | I: 0 | E: 17 | TD: 4401 | VD: 1100 | MLOSS: -6.1472 | MVSCORE: 0.0152 | MBVSCORE: 0.0151
+| [34mmodel_train[0m | I: 0 | E: 18 | TD: 4401 | VD: 1100 | MLOSS: -6.0297 | MVSCORE: 0.0151 | MBVSCORE: 0.0151
+| [34mmodel_train[0m | I: 0 | E: 19 | TD: 4401 | VD: 1100 | MLOSS: -6.1281 | MVSCORE: 0.0147 | MBVSCORE: 0.0147
+| [34mmodel_train[0m | I: 0 | E: 20 | TD: 4401 | VD: 1100 | MLOSS: -6.1696 | MVSCORE: 0.0146 | MBVSCORE: 0.0147
+| [34mmodel_train[0m | I: 0 | E: 21 | TD: 4401 | VD: 1100 | MLOSS: -6.2145 | MVSCORE: 0.0142 | MBVSCORE: 0.0142
+| [34mmodel_train[0m | I: 0 | E: 22 | TD: 4401 | VD: 1100 | MLOSS: -6.0099 | MVSCORE: 0.0143 | MBVSCORE: 0.0142
+| [34mmodel_train[0m | I: 0 | E: 23 | TD: 4401 | VD: 1100 | MLOSS: -6.1389 | MVSCORE: 0.0142 | MBVSCORE: 0.0142
+| [34mmodel_train[0m | I: 0 | E: 24 | TD: 4401 | VD: 1100 | MLOSS: -6.2053 | MVSCORE: 0.0152 | MBVSCORE: 0.0142
+| [34mmodel_train[0m | I: 0 | E: 25 | TD: 4401 | VD: 1100 | MLOSS: -5.8699 | MVSCORE: 0.0147 | MBVSCORE: 0.0142
+| [34mmodel_train[0m | I: 0 | E: 26 | TD: 4401 | VD: 1100 | MLOSS: -6.1438 | MVSCORE: 0.0140 | MBVSCORE: 0.0140
+| [34mmodel_train[0m | I: 0 | E: 27 | TD: 4401 | VD: 1100 | MLOSS: -6.2231 | MVSCORE: 0.0138 | MBVSCORE: 0.0138
+| [34mmodel_train[0m | I: 0 | E: 28 | TD: 4401 | VD: 1100 | MLOSS: -6.1472 | MVSCORE: 0.0139 | MBVSCORE: 0.0138
+| [34mmodel_train[0m | I: 0 | E: 29 | TD: 4401 | VD: 1100 | MLOSS: -6.2592 | MVSCORE: 0.0141 | MBVSCORE: 0.0138
+| [34mmodel_train[0m | I: 0 | E: 30 | TD: 4401 | VD: 1100 | MLOSS: -6.2585 | MVSCORE: 0.0138 | MBVSCORE: 0.0138
+| [34mmodel_train[0m | I: 0 | E: 31 | TD: 4401 | VD: 1100 | MLOSS: -6.1688 | MVSCORE: 0.0139 | MBVSCORE: 0.0138
+| [34mmodel_train[0m | I: 0 | E: 32 | TD: 4401 | VD: 1100 | MLOSS: -6.2638 | MVSCORE: 0.0139 | MBVSCORE: 0.0138
