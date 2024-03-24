@@ -281,7 +281,7 @@ def train(
             # ------ Epoch ended (evaluate and save model) ------
             if (env_steps + 1) % cfg.overrides.epoch_length == 0:
                 avg_reward = evaluate(
-                    test_env, agent, cfg.algorithm.num_eval_episodes, video_recorder, model_env, termination_fn
+                    test_env, agent, cfg.algorithm.num_eval_episodes, video_recorder
                 )
                 logger.log_data(
                     mbrl.constants.RESULTS_LOG_NAME,
